@@ -1,5 +1,3 @@
-Deployment: https://i-popov.github.io/ra-3.1/
-
 Рейтинг фильмов
 ===
 
